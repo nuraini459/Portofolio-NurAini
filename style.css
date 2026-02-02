@@ -1,0 +1,35 @@
+
+
+.sosmed i{
+  color: brown;
+}
+.home {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+#about {
+  
+  padding-top: 3rem;
+}
+
+
+
+#galery .card-img-top {
+  height: 250px; /* samakan tinggi */
+  object-fit: cover; /* potong gambar agar proporsional */
+}
+
+.skill-box {
+  border: 2px solid #000000;
+  border-radius: 20px;
+  padding: 3rem;
+}
+
+.softskill {
+  padding-bottom: 3rem;
+}
+
+#contact {
+  padding-top: 3rem;
+}
