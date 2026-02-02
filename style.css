@@ -12,14 +12,18 @@
   
   padding-top: 5rem;
 }
-
+#galery{
+  padding-top: 5rem;
+}
 
 
 #galery .card-img-top {
   height: 250px; /* samakan tinggi */
   object-fit: cover; /* potong gambar agar proporsional */
 }
-
+#skill{
+  padding-top: 5rem;
+}
 .skill-box {
   border: 2px solid #000000;
   border-radius: 20px;
